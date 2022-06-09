@@ -2,6 +2,9 @@ h1 {
     font-size:65px ; 
     color: orange;
     font-family: sans-serif;
+    width: 2000px; 
+    background-color:blue ; 
+    height: 300px;
    }
    #Yellow{
      background-color:yellow ;  
