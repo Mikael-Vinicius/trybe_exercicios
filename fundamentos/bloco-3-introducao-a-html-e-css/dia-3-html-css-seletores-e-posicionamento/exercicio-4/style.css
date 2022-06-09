@@ -1,0 +1,23 @@
+div:hover {
+    border: 4px solid cadetblue;
+    
+}
+#color-primary {
+    color: blue;
+}
+#color-secondary {
+    color: orange;
+}
+#extra-color {
+    color: mediumseagreen;
+    height: 100px; 
+}
+#dark-color {
+    color: darkred;
+}
+#bright-color {
+    color: lightskyblue;
+}
+.italic {
+    font-style: italic;
+}
