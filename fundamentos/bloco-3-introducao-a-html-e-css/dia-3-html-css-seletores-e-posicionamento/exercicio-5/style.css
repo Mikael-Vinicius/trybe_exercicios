@@ -1,0 +1,57 @@
+ol li {
+    background-color: yellow;
+}
+.even {
+    color: green;
+}
+.odd {
+    text-transform: uppercase;
+}
+h1, h2, h3  {
+    color: red;
+}
+h1 em, h2 em, h3 em {
+    font-size: 20px;
+    border: 1px solid;
+}
+li {
+    font-size: 20px;
+}
+li em {
+    font-weight: 900;
+}
+.java {
+    background-color: pink;
+    color: blue; 
+ }
+ .python {
+     color: blue;
+ }
+ .link  {
+    font-weight: 900;
+    font-family: monospace;
+ }
+ #trybe:hover {
+     color: green;
+ 
+ }
+ #schools:hover {
+     color: green;
+
+ }
+ #overflow:hover {
+     color: orange;
+
+ }
+ #devdocs:hover {
+     color: yellow;
+
+ }
+ #mozila:hover {
+     color: black;
+ }
+
+ 
+ 
+     
+   
