@@ -1,0 +1,14 @@
+h3 {
+    font-style: italic;
+}
+#aside {
+    width: 15%;
+    
+     margin-bottom: 100px;
+     display: inline-block;
+        height: 50px;
+     text-align: right;
+     border-top: 1px gray;
+     margin-bottom: 50px;
+     margin-left: 700px;
+}
