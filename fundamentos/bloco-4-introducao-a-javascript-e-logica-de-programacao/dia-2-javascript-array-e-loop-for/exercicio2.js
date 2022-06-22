@@ -19,6 +19,6 @@ console.log(average)
 if(average > 20) {
   console.log("É maior que 20")
 }
-else if(average <= 20) {
-  console.log("Valor menor ou igual a 20")
+else{
+  console.log("É menor ou igual a 20")
 }
