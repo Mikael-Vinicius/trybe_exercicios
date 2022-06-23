@@ -29,4 +29,11 @@ for(let index = 0; index < numbers.length; index += 1 ) {
   maior = numbers[index] }
 }
 console.log(maior)
-//exercicio5
+//exercicio6
+let impares = 0
+for(let index = 0; index < numbers.length; index += 1) {
+  if(numbers[index] % 2 === 1) {
+   impares += 1 
+  }
+}
+console.log(impares)
