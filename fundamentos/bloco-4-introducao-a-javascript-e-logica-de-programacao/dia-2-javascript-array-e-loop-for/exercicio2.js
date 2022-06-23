@@ -22,3 +22,11 @@ if(average > 20) {
 else{
   console.log("É menor ou igual a 20")
 }
+//exercicio5
+let maior = 0
+for(let index = 0; index < numbers.length; index += 1 ) {
+ if(numbers[index] > maior) {  
+  maior = numbers[index] }
+}
+console.log(maior)
+//exercicio5
