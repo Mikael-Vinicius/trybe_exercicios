@@ -21,7 +21,6 @@ function changeFont() {
 }
 
 function addPhraseToLocalStorage() {
-  localStorage.setItem('paragrafo')
   
 }
 
